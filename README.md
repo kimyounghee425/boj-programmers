@@ -1,2 +1,2 @@
-# BOJ-Programmers
+# boj-programmers
 
